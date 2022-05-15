@@ -1,0 +1,1 @@
+const menuOpen = document.querySelector('.menu-bar')

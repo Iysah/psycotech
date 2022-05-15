@@ -200,6 +200,11 @@ img {
     margin: 0 auto 30px;
 }
 
+/* Hamburger menu */
+.hamburger-menu  i {
+    font-size: 25px;
+}
+
 /* Footer */
 .footer {
     display: flex;
