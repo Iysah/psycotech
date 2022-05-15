@@ -204,7 +204,9 @@ img {
 .hamburger-menu  i {
     font-size: 25px;
 }
-
+.hamburger-menu .close-bar {
+    display: none;
+}
 /* Footer */
 .footer {
     display: flex;
